@@ -1,2 +1,2 @@
-# applink
-http://danielecampogiani.com/applink/
+# yapplinks
+http://mattiacantalu.dev/yapplinks
